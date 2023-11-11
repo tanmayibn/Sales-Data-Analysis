@@ -1,4 +1,4 @@
-# Sales-Insights-Data-Analysis
+# Sales-Data-Analysis
 Used MySQL and Tableau to conduct conduct data analysis of sales (profit &amp; revenue) and represent the findings via interactive dashboards 
 
 ## Resources: 
